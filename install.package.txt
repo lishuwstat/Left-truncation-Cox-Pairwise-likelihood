@@ -1,0 +1,3 @@
+install.packages(paste(getwd(),"/LTsurv_0.1.0.tar.gz", sep=""), 
+  repos=NULL, type="source")
+library(LTsurv)
